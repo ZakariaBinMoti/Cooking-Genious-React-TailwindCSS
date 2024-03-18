@@ -5,8 +5,12 @@
 @tailwind utilities;
 
 body{
+  /* max-width: 1320px;  */
+  /* margin: 0 auto; */
+  font-family: "Lexend", sans-serif;
+}
+body header,section{
   max-width: 1320px; 
   margin: 0 auto;
-  font-family: "Lexend", sans-serif;
 }
 
